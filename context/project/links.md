@@ -13,5 +13,5 @@ last-reviewed: 2026-10-21
 | ClickUp | | |
 | Repository (context) | https://github.com/paulversteeg/DaDa-Data | Deze repo |
 | Shared drive | | |
-| Shirtendrukker (optie van Peer) | https://inspiratie.spized.com/voetbalshirt-ontwerpen | Spized; Hans neemt contact op (vanaf 21 oktober) |
+| Shirtendrukker (optie van Peer) | https://inspiratie.spized.com/voetbalshirt-ontwerpen | Spized: één van de opties, nog geen keuze. Hans zoekt verder uit |
 | Muziek deel 2 (mp3 + pdf) | | Tijn stuurt door |

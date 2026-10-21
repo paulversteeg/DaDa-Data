@@ -12,7 +12,7 @@ Een leverancier vinden die het shirt kan produceren.
 
 ## In progress
 
-- **Contact met shirtendrukker** (Hans, vanaf 21 oktober): via de optie die Peer in de chat deelde: Spized (zie `project/links.md`). Ter referentie: Nederlandse bedrijven vragen ~€55 per shirt.
+- **Leverancier uitzoeken** (Hans, vanaf 21 oktober): Spized (optie van Peer, zie `project/links.md`) is één van de opties; Hans zoekt verder uit en pakt de keuze op. Ter referentie: Nederlandse bedrijven vragen ~€55 per shirt.
 
 ## Open feedback / latest refinement
 

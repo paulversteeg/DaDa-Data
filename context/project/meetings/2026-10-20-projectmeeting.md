@@ -35,5 +35,5 @@ Maandag is lastig voor Matthias (work event). Opties:
 | Paul | Soundscape fine-tunen: glitches halveren, art gallery-laag schrappen, vocals naar drie en herpositioneren |
 | Paul | Dada-gedicht testen met één stem via voice speaker; anders schrappen |
 | Tijn | Mp3 + pdf deel 2 naar Paul en Venderbos |
-| Hans | Contact met shirtendrukker via Peer's link (vanaf 21 oktober) |
+| Hans | Leverancier shirts uitzoeken; Spized (link van Peer) is één van de opties |
 | Hans, Matthias | Vervanging toetsenspeler regelen |
