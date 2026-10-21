@@ -36,11 +36,9 @@ A polka-dot grid that becomes organic. On the system side it is tiny, even black
 
 ## Applications
 
-**Uniforms** (the current design is in `features/uniform/`, DD-UN-001: a football shirt with a gradient from white via loose polka dots to black, taken from the poster artwork; this differs from the one-pager's idea below, so check which applies)
+**Uniforms**
 
-- Grid print on the front panel
-- Colour gradient towards the back and sleeves
-- Glitch edge on the collar or hem
+The uniform design shown to everyone on 20 October 2026 is final and will be printed. It is a football shirt with a gradient from white via loose polka dots to black, taken from the poster artwork (see `features/uniform/`, DD-UN-001). It replaces the one-pager's uniform ideas (grid print on the front panel, colour gradient to the back and sleeves, glitch edge on the collar or hem). Only sleeves, for example to give the sleeves a colour, may be added later.
 
 **Props and floor**
 

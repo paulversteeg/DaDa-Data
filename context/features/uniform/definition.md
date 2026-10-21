@@ -16,4 +16,4 @@ Alle spelers, tijdens de show (en mogelijk de pre-show). Het shirt moet passen b
 
 ## What does it explicitly not do?
 
-- Nog geen sleeve-ontwerp: dat is een optie voor later (zie open punten in `tasks/current-sprint.md`).
+- Nog geen sleeve-ontwerp: het ontwerp is verder definitief, alleen sleeves (bijvoorbeeld de mouwen een kleur geven) kunnen later nog worden toegevoegd (zie open punten in `tasks/current-sprint.md`).
