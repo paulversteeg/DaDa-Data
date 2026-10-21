@@ -22,7 +22,7 @@ Decisions are logged in order. Refer to them elsewhere by ID instead of repeatin
 - **Context:** not provided yet
 - **Decision:** the show competes in the Marching A Class.
 - **Alternatives considered:** not provided yet
-- **Consequences:** the A Class rules apply, for example a performance time of 3 to 6 minutes. See `platform/tech/tech-constraints.md`.
+- **Consequences:** the A Class rules apply, for example a performance time of 3 to 6 minutes. A unit in the wrong class can be advised or moved by the jury chair. See `platform/tech/tech-constraints.md`.
 
 ## DD-003: The Algorithmic Prison and The Scream are one part
 
@@ -35,7 +35,7 @@ Decisions are logged in order. Refer to them elsewhere by ID instead of repeatin
 ## DD-004: The visual identity is approved
 
 - **Date:** 2026-10-20
-- **Context:** not provided yet
+- **Context:** the visual identity was approved in a meeting, jointly by everyone involved, as a design decision. Hans has final responsibility.
 - **Decision:** the visual identity from the one-pager (grid to chaos, dot-grid motif, six-colour palette) is approved.
 - **Alternatives considered:** not provided yet
 - **Consequences:** it is the basis for uniforms, props, floor and marketing. See `platform/brand/brand-guidelines.md`.

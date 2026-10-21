@@ -50,7 +50,7 @@ The first two sections are one part (deel 1), so the show moves through three pa
 
 **The Wonder**
 
-- **Context:** the AI system has just crashed. The loud rhythmic chaos stops abruptly and the smoke clears.
+- **Context:** the AI system has just crashed. The loud rhythmic chaos stops abruptly.
 - **Goal:** a moment of pure vulnerability. The members realise they are free of the algorithm and are suddenly human again. Without it telling them what to do, they have to rediscover how to feel, breathe and cooperate.
 - **Sound:** it starts in complete silence. One member begins a soft, uncertain acoustic motif with bare hands on the drum rim, and a member on the other side of the room answers. The drummers put down their sticks.
 - **Drill:** the tight blocks dissolve into an asymmetric, scattered, crouching setup.
@@ -69,6 +69,7 @@ The first two sections are one part (deel 1), so the show moves through three pa
 The show description has been overtaken on these points (see `platform/history/dont-do.md`):
 
 - **Props:** the moving "AI robot" props (members blocking them, taking manual control, using them as toys) are out. There are no props on the field this season. The only exception is the floor, a large plastic mat.
+- **Smoke:** the smoke in the description is not part of the show.
 - **Dance:** there is no dance while carrying the drums this season, and whether there will be real dance at all is still to be seen. The dance elements in the description (contemporary release in The Scream) are therefore not confirmed. What is planned is simple movement, described below.
 
 ## Movement

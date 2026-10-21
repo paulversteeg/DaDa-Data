@@ -6,7 +6,7 @@ last-reviewed: 2026-10-21 # YYYY-MM-DD
 
 # Tech constraints
 
-Source: Indoor Percussion Handbook 2025 (CGN-IPC 2025 versie def), Part 3 (contest organisation and rules, articles 1.0-9.0). Some rules carry a footnote saying they change in 2026, and the 2027 rules may differ again. Check for a 2027 edition. Penalties are in points.
+Source: Indoor Percussion Handbook 2025 (CGN-IPC 2025 versie def): Part 1 (philosophies, jury system, classes), Part 2 (the Marching Class captions and criteria) and Part 3 (contest organisation and rules, articles 1.0-9.0). The jury duties, code of conduct and Prep and Concert Class pages were only skimmed or skipped, because they do not apply to the show. Some rules carry a footnote saying they change in 2026, and the 2027 rules may differ again. Check for a 2027 edition. Penalties are in points.
 
 ## Platform and stack
 
@@ -14,6 +14,27 @@ Source: Indoor Percussion Handbook 2025 (CGN-IPC 2025 versie def), Part 3 (conte
 - **Class:** Marching A Class. There is no age limit in this class. The Marching Class is for percussion groups with melodic and non-melodic instruments and optionally a visual group. The group performs choreography based on the music it brings.
 - **Scoring (Marching Class, 4 jury members):** Music 30% (composition 10, performance quality 20), Effect-Music 30% (overall effect 15, music effect 15), Effect-Visual 20% (overall effect 10, visual effect 10), Visual 20% (composition 10, performance quality 10). Timing & Penalty is a separate jury member who only gives penalties.
 - **Instruments:** the unit brings its own. Typical percussion is allowed. So are electronic instruments found in a pop rhythm section (guitar, bass, synthesizers, keyboards, electronic mallet instruments, piano), wind and brass instruments, and microphones for voices. Any instrument may be amplified with one or more microphones.
+
+**What the handbook says about the A Class** (it matches the brief):
+
+- The A Class is the basis of Indoor Percussion in the Netherlands. The members are not yet very experienced and mainly want to learn through competition. The emphasis is on training and on performing the programme.
+- A show must be written to the level of the members. Programmes that are written too high are explicitly warned against ("overschrijven"), and the staff must not blame its own failures on the jury, members or organisation.
+- The staff's philosophy is that "winning is not necessarily becoming number 1". The programme must be a challenge so the individuals can grow, but not so hard that it cannot be achieved.
+- Scores in the A Class cannot be compared with scores in the Open or World Class.
+
+**How the jury judges (Marching Class)**
+
+| Caption | Weight | Sub-captions | What is looked at |
+|---|---|---|---|
+| Music | 30% | Composition (10), Performance quality (20) | Composition: orchestration, design elements (melody, harmony, rhythm, dynamics, range, variety, continuity), intent, simultaneous responsibility. Performance quality: sound production, musicianship, rhythmic clarity, uniformity, ensemble cohesiveness. |
+| Effect-Music | 30% | Overall effect (15), Music effect (15) | Overall effect: programme (pacing, continuity, impact, climax and resolution), creativity, communication, audience appeal, coordination, range of effects. Music effect: musical journey, creativity, musicianship, artistry, excellence as effect. |
+| Effect-Visual | 20% | Overall effect (10), Visual effect (10) | The same overall effect criteria. Visual effect: visual journey (form, movement, colour, characterisation), creativity, craftsmanship, artistry, excellence as effect. |
+| Visual | 20% | Composition (10), Performance quality (10) | Composition: orchestration, interpretation of the audio, intent, simultaneous responsibility. Performance quality: accuracy, movement, presence, uniformity, ensemble control. |
+
+- The Effect jury members react to the show as a whole and are asked to value creativity and risk-taking. Originality alone is not enough: it must also meet the other criteria.
+- In the visual caption it is always the music that drives the visual.
+- "Excellence as effect" is not about technical difficulty, but about how strongly the performance triggers a response.
+- Each sub-caption is scored in one of five boxes. In the A Class: box 1 members are introduced to basic skills, box 2 they discover them, box 3 they know them and the programme is developing, box 4 they understand and apply most of them and know some advanced skills, box 5 they apply all basic skills, know several advanced skills and stand above the written book. The score falls in the box that applies most of the time during the performance.
 
 ## Hard constraints (standards, regulation, legacy)
 
@@ -59,6 +80,13 @@ Source: Indoor Percussion Handbook 2025 (CGN-IPC 2025 versie def), Part 3 (conte
 - Penalty for unsafe or too high props: 10 points up to disqualification. The contest organisation and the hall management can forbid a prop.
 - Copyrighted material needs permission, which the unit must arrange (5.7).
 - Programme, music, soundtracks, theme and uniform choices must suit a CGN event, with its audience, sponsors and organisation. A refusal to perform because of this can lead to disqualification.
+
+**Class, jury and communication**
+
+- A unit that competes in the wrong class can be advised or moved by the jury chair or the Technical Director Percussion, even at a contest. The unit has 48 hours to object. CGN advises at least one contest before the Championships.
+- A jury member may not give a consultation to a unit between 1 December and the Championships.
+- A formal protest must be sent in writing within 36 hours after the contest.
+- Social media: everybody involved should avoid communication, positive or negative, private or public, about any competitive aspect of Indoor Percussion. CGN core team members and jury members should not be tagged in or promote posts about a unit.
 
 **Penalties in general**
 

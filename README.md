@@ -5,7 +5,7 @@ DaDa Data is the 2027 indoor percussion program for Jubal Indoor Percussion, wri
 ## How this repo works
 
 This repo holds the context of the project, so people and AI tools work from the same source of truth.
-Figma, ClickUp and Storybook stay the place where the work happens. This repo explains it.
+Logic, Sibelius and Envision stay the place where the work happens. This repo explains it.
 
 - `CLAUDE.md` and `AGENTS.md`: the front door for AI tools
 - `context/project/`: why the project exists, who is involved, where things live

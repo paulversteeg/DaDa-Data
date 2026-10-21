@@ -26,7 +26,7 @@ There is no problem to solve. The show exists to be fun to rehearse and perform,
 - Drill
 - Visual design
 - Costumes
-- Props
+- Props: only the polka dots on the floor, as decoration (no other props this season)
 - Storyline
 - Marketing material
 - Planning: the rehearsal schedule and logistics
@@ -75,4 +75,4 @@ Source: the planning sheet (`Planning.pdf`). Dates run from September 2026 to Ma
   - Part 3: first draft 16 Nov; final review and letter check 23 Nov.
 - **Uniform:** design sketch 5 Oct (Peer / Paul); final design 12 Oct (no owner listed).
 - **Floor:** check, clean and tape 7 Nov (no owner listed).
-- **Still open, no deadline or owner:** sound cart (polka dots?) and dot props?
+- **Still open, no deadline or owner:** the sound cart (polka dots?) and the polka dots on the floor (decoration).

@@ -4,7 +4,7 @@ You are working on **DaDa Data** for **Jubal**. Read this file first. Then load 
 
 ## What lives where
 
-- `context/project/`: the brief, stakeholders and links to Figma, ClickUp and Storybook
+- `context/project/`: the brief, stakeholders and links to the sources of truth
 - `context/platform/`: rules that hold for every feature (brand, tech, design system, IA, roles, language, decisions)
 - `context/features/<name>/`: everything specific to one feature
 - `context/research/`: research that is broader than one feature

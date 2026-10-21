@@ -13,7 +13,7 @@ Rules learned the hard way. One line per rule, plus why and a DD-ID if there is 
 | No dance while carrying the drums, this season. | Last year's show aimed for more dance, but that required the drums to be finished first, and it got messy. It is not banned forever, only for this season. | DD-005 |
 | No props on the field, this season. | Objects that support the programme visually were considered and dropped, because members would have to move them. The exception is the floor (a large plastic floor mat). This overrules the moving AI props in the show description. | DD-005 |
 | No dance routines for now. | When dance comes up, it means simple movement, such as a few tight, hard movements every member masters, or round, flowing movements in the quiet part. Whether there will be real dance is still to be seen. | |
-| Don't set the level of the music or the drill above what the members can handle. | The level must be manageable for the members. Stay flexible and be ready to adjust later in the season. If members simply cannot manage a part, deal with it. | |
+| Don't set the level of the music or the drill above what the members can handle. | The level must be manageable for the members. The handbook says the same for the A Class: a programme that is written too high is a warning sign, and the programme should be a challenge but not too hard. Stay flexible and be ready to adjust later in the season. If members simply cannot manage a part, deal with it. | |
 
 ## Exception: the floor
 
