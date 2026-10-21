@@ -1,7 +1,7 @@
 ---
 status: active           # draft | active | outdated
 owner: Paul              # who keeps this file current
-last-reviewed: 2026-10-20 # YYYY-MM-DD
+last-reviewed: 2026-10-21 # YYYY-MM-DD
 ---
 
 # Links to the sources of truth
@@ -12,3 +12,6 @@ last-reviewed: 2026-10-20 # YYYY-MM-DD
 | Logic | Local files (no link) | Local project files. Shared internally via the SharePoint; shared with the members after review. |
 | Sibelius | Local files (no link) | Local project files. Shared internally via the SharePoint; shared with the members after review. |
 | Envision | Local files (no link) | Local project files. Shared internally via the SharePoint; shared with the members after review. |
+| Repository (context) | https://github.com/paulversteeg/DaDa-Data | Deze repo |
+| Shirtendrukker (optie van Peer) | https://inspiratie.spized.com/voetbalshirt-ontwerpen | Spized: één van de opties, nog geen keuze. Hans zoekt verder uit |
+| Muziek deel 2 (mp3 + pdf) | | Tijn stuurt door |

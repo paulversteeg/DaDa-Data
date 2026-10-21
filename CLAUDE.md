@@ -1,6 +1,6 @@
 # Front door
 
-You are working on **DaDa Data** for **Jubal**. Read this file first. Then load only what the task needs.
+You are working on **DaDa Data** (indoor percussion show 2027) for **Jubal**. Read this file first. Then load only what the task needs.
 
 ## What lives where
 

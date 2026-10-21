@@ -52,6 +52,7 @@ The first two sections are one part (deel 1), so the show moves through three pa
 
 - **Context:** the AI system has just crashed. The loud rhythmic chaos stops abruptly.
 - **Goal:** a moment of pure vulnerability. The members realise they are free of the algorithm and are suddenly human again. Without it telling them what to do, they have to rediscover how to feel, breathe and cooperate.
+- **Music:** based on "Enjoy the Silence", arranged by Tijn (see `features/muziek-deel-2/`).
 - **Sound:** it starts in complete silence. One member begins a soft, uncertain acoustic motif with bare hands on the drum rim, and a member on the other side of the room answers. The drummers put down their sticks.
 - **Drill:** the tight blocks dissolve into an asymmetric, scattered, crouching setup.
 - **Movement:** visible, theatrical breathing and looking at each other's hands and faces in wonder.
@@ -92,8 +93,8 @@ Not applicable to a show with a fixed order. A new element (a moment, a movement
 
 ## Soundscape
 
-The soundscape is the layer underneath the whole show. It runs through all four sections. In the planning sheet it is made by Paul, with samples for deel 2 and deel 3 listed as separate items. The sound rules for electronics and samples are in `platform/tech/tech-constraints.md`.
+The soundscape is the layer underneath the whole show. It runs through all four sections. Details and decisions are in `features/soundscape/`. In the planning sheet it is made by Paul, with samples for deel 2 and deel 3 listed as separate items. The sound rules for electronics and samples are in `platform/tech/tech-constraints.md`.
 
 ## Open
 
-- The music for each section is still being chosen. The description lists options, for example Technologic, Cisco hold music or Da Da Da for the first section. These are not decisions, so they are not recorded here.
+- The music of the other sections is not recorded here as a decision. The description lists options, for example Technologic, Cisco hold music or Da Da Da for the first section.

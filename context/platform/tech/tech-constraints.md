@@ -120,4 +120,7 @@ Check with the Technical Director Percussion, as the handbook itself advises whe
 
 - 5.9.3 lists devices powered by electricity, batteries or air pressure as not allowed, while 5.4 and 5.5 allow electrical devices, lights and robots operated by a member on the floor. This only matters if electrical props come back, since the rolling AI props are out this season.
 - Whether the planned electronics, samples and soundscape comply with the sound rules above.
+- Whether the soundscape vocals (the "You may ask yourself" lines, the Dada poem) comply with 5.2: lyrics may only be triggered word by word, and a spoken sentence without rhythmic intent by one key. See `features/soundscape/`.
+- Whether a soundscape that already runs before the show (the pre-show idea) is allowed. Check 5.2 and 7.2 to 7.6 with the Technical Director Percussion.
+- Copyright permission (5.7) for the samples and vocals, for example from Talking Heads.
 - Whether a 2027 edition of the handbook exists, and what changed.
