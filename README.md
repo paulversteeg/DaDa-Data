@@ -1,6 +1,6 @@
-# Project name
+# DaDa Data
 
-One or two sentences: who this project is for and what it should achieve.
+DaDa Data is the 2027 indoor percussion program for Jubal Indoor Percussion, written for the ensemble members. It is a production that tells the story of how to break free from, learn about and live with artificial intelligence. Audiences come to see the show, and at performances a jury team adjudicates it.
 
 ## How this repo works
 
