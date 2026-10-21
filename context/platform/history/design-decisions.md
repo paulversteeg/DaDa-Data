@@ -1,7 +1,7 @@
 ---
-status: draft            # draft | active | outdated
-owner:                   # who keeps this file current
-last-reviewed:           # YYYY-MM-DD
+status: active           # draft | active | outdated
+owner: Paul              # who keeps this file current
+last-reviewed: 2026-10-21 # YYYY-MM-DD
 ---
 
 # Platform design decisions
@@ -13,15 +13,15 @@ Decisions are logged in order. Refer to them elsewhere by ID instead of repeatin
 - **Date:** 2026-09-28
 - **Context:** the working title "Dada Ex Machina" was longer. A shorter, catchier title was wanted, and an alliteration (DaDa Data) was seen as better.
 - **Decision:** the show is called "DaDa Data". It replaces the working title "Dada Ex Machina".
-- **Alternatives considered:** not provided yet
-- **Consequences:** not provided yet
+- **Alternatives considered:** not recorded
+- **Consequences:** not recorded
 
 ## DD-002: DaDa Data competes in the Marching A Class
 
 - **Date:** at the start of the project (a starting point, not a later choice)
-- **Context:** not provided yet
+- **Context:** the unit is rebuilding, with younger and less experienced members. Before, it competed at a higher level. The move to the A Class is a deliberate step back and a strategic choice. This is the only reason.
 - **Decision:** the show competes in the Marching A Class.
-- **Alternatives considered:** not provided yet
+- **Alternatives considered:** not recorded
 - **Consequences:** the A Class rules apply, for example a performance time of 3 to 6 minutes. A unit in the wrong class can be advised or moved by the jury chair. See `platform/tech/tech-constraints.md`.
 
 ## DD-003: The Algorithmic Prison and The Scream are one part
@@ -29,7 +29,7 @@ Decisions are logged in order. Refer to them elsewhere by ID instead of repeatin
 - **Date:** 2026-06-25
 - **Context:** the two sections flow on more logically as one. The Scream is not a separate, loose statement but the resolution of the first piece of music.
 - **Decision:** The Algorithmic Prison and The Scream are connected and treated as one part (deel 1).
-- **Alternatives considered:** not provided yet
+- **Alternatives considered:** not recorded
 - **Consequences:** the show has three planning parts, deel 1 to 3, covering four sections. See `platform/information-architecture.md`.
 
 ## DD-004: The visual identity is approved
@@ -37,7 +37,7 @@ Decisions are logged in order. Refer to them elsewhere by ID instead of repeatin
 - **Date:** 2026-10-20
 - **Context:** the visual identity was approved in a meeting, jointly by everyone involved, as a design decision. Hans has final responsibility.
 - **Decision:** the visual identity from the one-pager (grid to chaos, dot-grid motif, six-colour palette) is approved.
-- **Alternatives considered:** not provided yet
+- **Alternatives considered:** not recorded
 - **Consequences:** it is the basis for uniforms, props, floor and marketing. See `platform/brand/brand-guidelines.md`.
 
 ## DD-005: No props on the field and no dance with the drums this season

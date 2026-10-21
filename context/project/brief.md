@@ -1,7 +1,7 @@
 ---
-status: draft            # draft | active | outdated
-owner:                   # who keeps this file current
-last-reviewed:           # YYYY-MM-DD
+status: active           # draft | active | outdated
+owner: Paul              # who keeps this file current
+last-reviewed: 2026-10-21 # YYYY-MM-DD
 ---
 
 # Project brief
@@ -31,7 +31,7 @@ There is no problem to solve. The show exists to be fun to rehearse and perform,
 - Marketing material
 - Planning: the rehearsal schedule and logistics
 
-**Out of scope:** not provided yet.
+**Out of scope:** nothing is explicitly ruled out beyond what is not listed above.
 
 **Priorities:** The main goal is to make music and to enjoy the rehearsals. There is a competition element, but it is secondary.
 

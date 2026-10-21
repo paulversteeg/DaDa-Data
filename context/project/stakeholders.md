@@ -1,6 +1,6 @@
 ---
 status: draft            # draft | active | outdated
-owner:                   # who keeps this file current
+owner: Paul              # who keeps this file current
 last-reviewed:           # YYYY-MM-DD
 ---
 
@@ -11,7 +11,7 @@ last-reviewed:           # YYYY-MM-DD
 | Paul | Jubal | Writes the drill and the sound design (soundscape); positioning for part 2 | Soundscape | |
 | Tijn | Jubal | Writes the front ensemble music; arrangement of part 2 (Enjoy the Silence); plays marimba | Arrangement of part 2 | |
 | Matthias (Mat) | Jubal | Writes the field percussion; staffing | | |
-| Hans | Jubal | Coordinator; uniform supplier; staffing | Final sign-off on the show | |
+| Hans | Jubal | Coordinator and ultimately responsible; handles organisational matters (uniform supplier, staffing) | Final sign-off on the show | |
 | Sharon | | Visual (movement) instructor | | |
 | Stephan | | Music instructor | | |
 | Micheal | | Music instructor | | |
