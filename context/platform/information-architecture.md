@@ -87,6 +87,42 @@ The movement is simple. It is not a dance routine.
 - **Senior layer:** the friction and psychological tension of the music. Embracing the uncomfortable and breaking traditions. They carry the more complex rhythmic layers and the "outsider" rock attitude.
 - **Jury and audience:** the jury appreciates the clear, Dada design. The audience enjoys the raw, hypnotic live energy.
 
+## Original concept (from the timeline sheet)
+
+This is how the show was first conceived, taken from the Google Sheet "Jubal 2027 - Dada Ex Machina". It is the starting idea, not a set of decisions. The agreed durations in the screen list above stay leading. The sheet's own time axis does not match them, so the scores are not mapped onto the sections. The sheet's title, tempos, the Showcase music and the Realisation (part 3) tab are deliberately left out.
+
+### Effect scores
+
+Planned effect per 15 seconds on a scale of 1 to 9, on the sheet's own axis from 0:00 to 5:15 (22 steps).
+
+| Time | 0:00 | 0:15 | 0:30 | 0:45 | 1:00 | 1:15 | 1:30 | 1:45 | 2:00 | 2:15 | 2:30 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Music effect | 2 | 2 | 2 | 2 | 5 | 5 | 6 | 8 | 8 | 9 | 3 |
+| Visual effect | 5 | 8 | 9 | 8 | 5 | 4 | 4 | 4 | 6 | 7 | 1 |
+
+| Time | 2:45 | 3:00 | 3:15 | 3:30 | 3:45 | 4:00 | 4:15 | 4:30 | 4:45 | 5:00 | 5:15 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| Music effect | 4 | 6 | 5 | 5 | 3 | 6 | 6 | 7 | 7 | 8 | 9 |
+| Visual effect | 1 | 1 | 2 | 3 | 4 | 6 | 6 | 7 | 7 | 8 | 9 |
+
+The shape: the opening is visual rather than musical, the music takes over and peaks, then both drop to a quiet low (visual effect 1 for three steps), and both build together to the maximum at the end.
+
+### Visual ideas
+
+- **The Algorithmic Prison:** a "robot dance". Dance is not confirmed this season (DD-005), so read this as the robotic, staccato movement described under Movement.
+- **The Scream:** breaking out of the machine: one member, then two, then four, and so on. Perhaps use the tenors for this.
+
+### Music ideas
+
+- **Mathematical sequences** as the basis of the machine: Fibonacci, powers of two and Conway's Look-and-Say.
+- **Predictable harmony** for the machine: I-V-vi-IV or i-VI-III-VII, or one chord for a long time.
+- **Avoid** early unexpected modulations, dissonances and free harmonies.
+- **The Showcase:** the harmony is expected to grind ("hier schuurt het qua akkoorden").
+
+### Not confirmed
+
+The sheet also names a sample for the Prison ("Da, da, da", an East German sound) and a mix for the Scream. Whether these are still current has not been confirmed, so they are not recorded here.
+
 ## Where new features usually land
 
 Not applicable to a show with a fixed order. A new element (a moment, a movement or a sound) lands in the section whose goal it serves.

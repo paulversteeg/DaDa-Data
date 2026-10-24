@@ -2,7 +2,7 @@
 
 Maintained by the initiate-project-brain skill. Safe to edit by hand.
 
-Last session: 2026-10-21, by Paul, finished the open points in the brief, owners and decisions
+Last session: 2026-10-24, by Paul, added the original concept (effect scores, visual and music ideas) from the timeline sheet
 
 | File | State | Date | By | Notes |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ Last session: 2026-10-21, by Paul, finished the open points in the brief, owners
 | context/platform/tech/tech-constraints.md | done | 2026-10-21 | Paul | From Handbook 2025 Parts 1-3 (A Class); jury duties pages skipped; open questions listed in the file |
 | context/platform/design-system/DESIGN.md | done | 2026-10-20 | Paul | Colour palette; typefaces not chosen yet; spacing/radius/elevation not applicable |
 | context/platform/design-system/ui-patterns.md | skipped | 2026-10-21 | Paul | No recurring patterns given yet |
-| context/platform/information-architecture.md | done | 2026-10-21 | Paul | Music per section still being chosen (noted in file) |
+| context/platform/information-architecture.md | done | 2026-10-21 | Paul | Music per section still being chosen (noted in file). 2026-10-24: original concept from the timeline sheet added |
 | context/platform/roles-and-permissions.md | skipped | 2026-10-21 | Paul | Roles are in stakeholders.md |
 | context/platform/relations.md | done | 2026-10-21 | Paul | Filled by the meeting branch (4 features) |
 | context/platform/history/design-decisions.md | done | 2026-10-21 | Paul | DD-001 to DD-005; some alternatives and consequences marked not recorded; years assumed 2026 |
